@@ -26,10 +26,10 @@ El token no está en el repositorio por seguridad.
 ![Dashboard completo](evidencias/dashboardcompleto.png)
 
 ### Filtro por género
-![Filtro por género](evidencias/2_filtro_genero.png)
+![Filtro por género](evidencias/filtrogenero.png)
 
 ### Filtro por año y votos
-![Filtro por año y votos](evidencias/3_filtro_anio_y_votos.png)
+![Filtro por año y votos](evidencias/filtroanioyvotos.png)
 
 ### Datos y descarga
 ![Datos y descarga](evidencias/datosyd.png)
